@@ -1,4 +1,4 @@
-# BCG Data Science Job Simulation on Forage - September 2024
+# BCG Data Science Job Simulation on Forage - April 2024
 
 
 I recently participated in BCG's Data Science job simulation on the Forage platform, and it was incredibly useful to understand what it might be like to participate on a data science and analytics team at BCG.
